@@ -39,3 +39,11 @@ Conclusão: para digitalizar planilhas e tabelas, é necessário que haja uma et
 
 ### Conclusões
 De modo geral, a ferramenta de OCR do Azure AI Vision parece ser consistente em seus resultados, tendo dificuldades semelhantes a outras ferramentas de OCR quanto à presença de ruídos e textos escritos à mão. Dificudades quanto à segmentação do texto podem ser contornadas com o uso de algoritmos adicionais. 
+
+
+### Fonte das imagens
+Links para as imagens utilizadas nos testes:
+1. [Carta antiga escrita à mão](https://genealogizando.com.br/registros/9-dicas-para-decifrar-a-caligrafia-de-documentos-antigos/)
+2. [Jornal antigo](https://pt.m.wikipedia.org/wiki/Ficheiro:Estandarte,_jornal_de_mocidade,_N.%C2%BA_1,_25_de_Mar%C3%A7o_de_1941,_capa.jpg)
+3. [_Scan_ de baixa qualidade](https://graphicdesign.stackexchange.com/questions/61931/clean-up-the-background-for-scanned-document)
+4. [Planilhas impressas](https://bytescout.com/blog/extracting-data-from-pdf.html)
